@@ -1,0 +1,13 @@
+.customeradded{
+    width:30%;
+    height: 40px;
+    background-color:chartreuse;
+    border-radius: 4px;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+}
+.product_headline{
+    margin-top: 5px;
+}
